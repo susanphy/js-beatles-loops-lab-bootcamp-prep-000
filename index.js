@@ -10,7 +10,7 @@ function johnLennonFacts(array){
   var facts = []
 
 var count = 0;
-while (count<facts.length){
+while (count<array.length){
   array.push(facts[count] + "!!!");
 
   return array;
