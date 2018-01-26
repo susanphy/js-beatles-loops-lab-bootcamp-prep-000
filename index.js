@@ -7,7 +7,7 @@ return array;
 }
 
 function johnLennonFacts(array){
-  const facts = [
+  var facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
