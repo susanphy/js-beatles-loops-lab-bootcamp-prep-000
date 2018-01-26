@@ -13,6 +13,6 @@ var count = 0;
 while (count<array.length){
   facts.push(array[count] + "!!!");
 
-  return facts;
+  return array;
 }
 }
