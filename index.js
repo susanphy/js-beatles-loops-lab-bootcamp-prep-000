@@ -7,7 +7,7 @@ return array;
 }
 
 function johnLennonFacts(array){
-  const facts = []
+  const facts = [];
 
 var count = 0;
 while (count<array.length){
