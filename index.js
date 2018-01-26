@@ -13,7 +13,7 @@ function johnLennonFacts(array){
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
-var count = 3;
+var count = [0,1,2,3];
 while (count<facts.length){
   array.push(facts[count] + "!!!");
 
